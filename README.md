@@ -6,6 +6,8 @@
 
 👩‍💻 Computer Science student @FMI, University of Bucharest, second year
 
+👩‍🏫 IT Educational Trainer at IT Junior
+
 🔭 Enrolled in Women4Cyber
 
 🧠 I'm currently learning Cyber Security
