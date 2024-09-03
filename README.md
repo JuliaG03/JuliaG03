@@ -4,13 +4,13 @@
 
 ## 🚀 About Me
 
-👩‍💻 Computer Science student @FMI, University of Bucharest, second year
+👩‍💻 Computer Science student @FMI, University of Bucharest, third year
 
-👩‍🏫 IT Educational Trainer at IT Junior
+👩‍🏫 IT Educational Trainer @ IT Junior
 
 🔭 Enrolled in Women4Cyber
 
-🧠 I'm currently learning Cyber Security
+🧠 Currently learning Cyber Security
 
 😂 Wanting to learn Julia programming language
 
